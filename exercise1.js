@@ -11,7 +11,7 @@ function changeColor() {
 // add event listener only if buttons exist
 if(buttons.length > 0) {
     buttons.forEach(button => {
-        buttons.addEventListener("click", changeColor);
+        button.addEventListener("click", changeColor);
     });
 } else {
     console.warn("No .color-btn elements found on page.");
