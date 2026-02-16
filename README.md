@@ -2,7 +2,7 @@
 ## Lab #3: The this Keyword & DOM Manipulation
 
 ### Lab Description
-## Lab 3 focusses on using JavaScript's `this` keyword in DOM event handlers by comparing regular and arrow functions, using `event.currentTarget`, applying `.bind()`, and working with `data-*` attributes to build interactive user interfaces.
+####Lab 3 focusses on using JavaScript's `this` keyword in DOM event handlers by comparing regular and arrow functions, using `event.currentTarget`, applying `.bind()`, and working with `data-*` attributes to build interactive user interfaces.
 
 
 ## 📂 Lab Structure
@@ -24,6 +24,7 @@
 # Link to video demo
 [Watch demo here]()
  
+
 
 
 
